@@ -1,6 +1,6 @@
 ## Hola, Soy Benjamin 👋
 
-Soy desarrollador de software, actualmente desarrollo aplicaciones en Flutter y de hobby desarrollo videojuegos.
+Soy desarrollador de software, actualmente desarrollo aplicaciones en Backend, y aprendiendo Frontend.
 
 Como contactarme **bean.moro@gmail.com**
 
